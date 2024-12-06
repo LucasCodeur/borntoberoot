@@ -1,0 +1,7 @@
+#APT
+
+Advanced package tool or APT is free sofware taht works with the core of the libraries in order to handle the installation and removal of software on Debian
+
+Automating the retrievak, configuration and installation of package
+
+Defined in a C++ library of funcitons.

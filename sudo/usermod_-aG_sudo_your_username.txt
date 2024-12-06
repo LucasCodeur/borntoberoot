@@ -1,0 +1,6 @@
+# usermode -aG sudo your_username
+
+Commande esrt utiliser pour ajouter un utilisateur au sudo groupe sur un system linux, qui accorde a l'utilisateur des priviliges administratifs (root)
+
+usermod : est utiliser pour modifier un compte utilisateur
+-aG : "apprend to groups" : le -a assure que l'utilisateur est ajouter au groupe sans etre enlever d'un aute groupe -G specifie le groupe a laquel tuilisateur sera ajoute

@@ -1,0 +1,7 @@
+#Apparmor
+
+AppArmor est un module de securite de linux implementant des restrictions d'applications, de permission
+
+Lancer apparmor : sudo systemctl enable apparmor
+
+check if is apparmor is used on thesud computer : sudo aa-status 

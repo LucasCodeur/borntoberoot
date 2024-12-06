@@ -1,0 +1,9 @@
+#Aptitude
+
+Allows to the users to view the list of packages and to perform package management task such as installingm upgrading, and removing packages. Actions may be performed from a visual interface or from the command-line
+
+The big difference with apt is the visual interface
+
+Aptiude during a package conflict will suggest a resolution than an do the jon whereas apt snot the case.
+
+Aptitude can interactively retrieve and displays the debian changelot of all availaible offcial packages.

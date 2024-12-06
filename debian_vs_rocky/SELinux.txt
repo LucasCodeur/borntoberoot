@@ -1,0 +1,13 @@
+#SeLinux
+
+Selinux est un module de securite qui prend ne charge les politiques de securite en matieres de
+controle d'acces.
+
+Est supporter par rocky et debian.
+
+Rocky OS l'integre mieux. Rocky fourni plus de logiciel pour ameliorer l'experience de Selinux, comme sealert, permettant de traduire les messages de refus de SElinux dans un format plus comprehensible et fournit des etapes de depannage. (Outil non present sur debian.) SELinux est largement considerer ocmme plus flexbile et plus robuste offrant des controles fins et des configurations de regles.
+
+Il a un different manageur de paquet qui est yumm qui est flexible et facile a utiliser.
+	Il supporte la resolution automatique de dependance, le versionning et du contenue modulaire
+
+Rocky a des mise a jour plus frequente qssurant d'avoir acces au plus rapide les nouveaux logiciels. Combine a son haut degree de compatibilite avec RHEL fait de rocky un potentielle meilleur os pour le bussiness.

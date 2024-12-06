@@ -1,0 +1,9 @@
+#Rocky
+
+Similaire a la Red Hate entreprise linux et a une meilleure prise en charge de Security enhanced linux (Se linux) 
+
+Extrement similaire a RHEL,.
+
+Tres compatible entre les deux
+
+Et tres economique. 

@@ -1,0 +1,16 @@
+# Sudoers File
+
+## Sert à donner les privilèges d'accès  
+
+- Contrôler quels utilisateurs ou groupes peuvent exécuter des commandes avec des droits plus élevés.  
+- Empêcher la divulgation du mot de passe root tout en permettant l'exécution de tâches spécifiques.  
+
+## Permissions précises  
+
+- Permet à l'administrateur de spécifier quelles commandes l'utilisateur peut effectuer.  
+
+## Sécurité  
+
+- Réduire les risques de modifications accidentelles ou malveillantes à l'échelle du système en limitant l'accès à la racine.  
+
+## Ouvrir le fichier sudoers : sudo visudo
