@@ -28,7 +28,7 @@ wall "
 	#Memory Usage: $RAM_USED/$RAM_TOTAL"MB" ($RAM_PERC)
 	#Disk Usage: $DISK_USED/$DISK_TOTAL"Gb" ($DISK_PERC)	
 	#CPU load: $CPU_LOAD
-	#Last boot:	$LAST_BOOT
+	#Last boot: $LAST_BOOT
 	#LVM use: $LVM
 	#Connections TCP : $TCP ESTABLISHED
 	#User log: $USER_LOG

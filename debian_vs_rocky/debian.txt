@@ -1,7 +1,0 @@
-# Debian
-
-Debian est plus stable, plus robuste, et as beaucoup de logiciel de disponible, option polyvalente pour du serveur ainsi que de l'application.
-
-Debian utilise APPArmor comme principal systeme de controle d'acces obligatoire. AppArmor est plus facile a mettre en place et a gerer.
-
-Debian utilise apt pour les paquetsm qui est sur et efficace mais n'offre pas le meme niveau de flexibilite, specialement pour le developpement de logiciel complexe.

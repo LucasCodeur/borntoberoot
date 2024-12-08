@@ -1,8 +1,0 @@
-#Commande All
-
-Commande ALL
-
-alice ALL=(ALL) ALL
-
-    Permet à l'utilisateur alice d'exécuter n'importe quelle commande en tant que n'importe quel utilisateur ou sur n'importe quel hôte.
-    Cela lui donne tous les droits.

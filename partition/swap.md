@@ -1,4 +1,4 @@
-#Directory swap
+# Directory swap
 
 The primary function of swap space is to substitute disk space for RAM memory when real RAM fills up and more space is needed.
 

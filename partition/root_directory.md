@@ -1,4 +1,4 @@
-#Root directory
+# Root directory
 
 It is the top directory of the linux system hierarchy, where all the other files and directories (including /bin, /home/ mnt/ or /var)
 

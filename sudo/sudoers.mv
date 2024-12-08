@@ -1,0 +1,16 @@
+# Sudoers File
+
+Used to grant access privileges
+
+    Controls which users or groups can execute commands with elevated rights.
+    Prevents the disclosure of the root password while allowing the execution of specific tasks.
+
+Specific Permissions
+
+    Allows the administrator to specify which commands a user can execute.
+
+Security
+
+    Reduces the risk of accidental or malicious system-wide modifications by limiting access to root.
+
+To open the sudoers file: sudo visudo
