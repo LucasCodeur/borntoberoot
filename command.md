@@ -114,3 +114,25 @@
 
 ### Activate the script all the tens minutes
     */10 * * * * bash /root/monitoring.sh
+
+### Disable the script
+#### edit the crontable
+#### comment the script
+
+## Wordpress
+
+### Access to my wordpress
+    http://127.0.0.1:8080/
+
+## Fail2ban
+    
+### How to deban
+
+#### Find the jail that bnned the IP
+    fail2ban-client status
+#### Check the banned IP's for the jail
+    fail2ban-client status JAIL_NAME
+#### Unban the specific IP
+    fail2ban-client set JAIL_NAME unbanip IP_ADDRESS
+#### Restart fail2ban
+    systemctl restart fail2ban
