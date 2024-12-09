@@ -25,4 +25,4 @@
     The percentage of time the CPU is involuntarily waiting for virtuals machines (in a virtualized environements)
 
 ## CPU LOAD
-    The CPU load typically refers to how much work the CPU is currently handling often measured as the percentage of total available, often measured as the percentage of total available CPU time that is actively being used. It would be the sum of the percentages of time the CPU is actively qorking on processes.
+    The CPU load typically refers It would be the sum of the percentages of time the CPU is actively working on processes.
